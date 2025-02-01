@@ -1,0 +1,12 @@
+##
+##  SunC4
+##  Created by Sun8ox in 2024
+##
+
+c4-skin: 'http://textures.minecraft.net/texture/4cee694b5df34f40d5e774bd3046db849e34ff55a482d0731e9d7a7bb74a12'
+c4-power: 15
+
+core-skin: 'http://textures.minecraft.net/texture/bc3d68a62d32f6a85b78b7e698f7c738354ef7835d14def0b948ecef13401636'
+
+# Features
+c4-crafting-enabled: true

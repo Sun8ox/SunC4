@@ -1,0 +1,15 @@
+name: SunC4
+version: '1.0-SNAPSHOT'
+main: mc.sun8ox.c4.Main
+api-version: '1.18'
+
+commands:
+  givec4:
+    description: Gives you a C4
+    permission: sun8ox.c4.give
+  givedetonator:
+    description: Gives you a Detonator
+    permission: sun8ox.c4.give
+  givecore:
+    description: Gives you a Core
+    permission: sun8ox.c4.give
